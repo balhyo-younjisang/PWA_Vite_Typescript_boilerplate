@@ -1,12 +1,6 @@
 <h1 align="center">
 PWA Vite React Boilerplate
 </h1>
-
-<div flex align="center">
-<img alt="GitHub" src="https://img.shields.io/github/license/menglinmaker/PWA-Vite-React-Boilerplate?style=flat-square">
-<img src="https://img.shields.io/github/languages/code-size/menglinmaker/PWA-Vite-React-Boilerplate?style=flat-square">
-</div>
-
 <div>&nbsp</div>
 <div align='center'>
 <a href='https://pwa-vite-react-boilerplate.netlify.app/'>
